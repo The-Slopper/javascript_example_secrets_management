@@ -1,7 +1,7 @@
 {
   "name": "javascript-example-secrets-management",
   "version": "1.0.0",
-  "description": "Gestao centralizada de segredos e configuracao sensivel.",
+  "description": "Centralized management of secrets and sensitive configuration.",
   "author": "Engineering Team <engineering@example.com>",
   "license": "MIT",
   "private": true,
